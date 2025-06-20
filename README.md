@@ -38,6 +38,5 @@
    - `returnDate` (date)
    - `status` (string)
 
-## Инсталация
 
 
